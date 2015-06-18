@@ -1,0 +1,8 @@
+schema= "C5228559_perslist"; 
+start_with= 4; 
+maxvalue= 1000000000; 
+nomaxvalue=false; 
+minvalue= 4; 
+nominvalue=true; 
+cycles= false; 
+depends_on_table= "C5228559.perslist.data::mymodel.person";
